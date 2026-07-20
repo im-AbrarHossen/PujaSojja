@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Helmet } from 'react-helmet-async';
-import ReactQuill from 'react-quill';
-import 'react-quill/dist/quill.snow.css'; // Quill editor styles
+import ReactQuill from 'react-quill-new';
+import 'react-quill-new/dist/quill.snow.css'; // Quill editor styles
 import {
     Upload,
     X,
